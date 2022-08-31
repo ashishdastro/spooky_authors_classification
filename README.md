@@ -1,5 +1,5 @@
 # Kaggle Competition - Spooky Authors Classification
-Following Learning Algorithms are explored for text classification in this project.
+Following learning algorithms are explored for text classification in this project.
 1. Logistic Regression 
 2. Multinomial Naive Bayes 
 3. SVM
