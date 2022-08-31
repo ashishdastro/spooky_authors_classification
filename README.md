@@ -1,4 +1,4 @@
-# spooky_authors_classification
+# Kaggle Competition - Spooky Authors Classification
 Text Classification
 Following Learning Algorithms are explored in this project.
 1. Logistic Regression 
